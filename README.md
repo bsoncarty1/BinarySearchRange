@@ -1,8 +1,6 @@
 # BinarySearchRange
 
-Brandon Soncarty
-CSCD 300-040 Data Structures
-Prog 1 Assignment
+Data Structures
 
 In the original Binary Search Recursion code that we learned in class, we were looking for a single point and returning that if it existed in a given array.In that code, we used high, low, and mid variables that changed during each recursive call according to the half of the array that we wanted to search though next.
 
